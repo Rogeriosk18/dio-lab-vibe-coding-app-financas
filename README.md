@@ -1,6 +1,10 @@
-# 💸 App Finanças Pessoais Cádmão com Vibe Coding
+💸 App de Organização de Finanças Pessoais com Vibe Coding
 
-PRD refinado no copilot web:
+Esse projeto foi desenvolvido como um desafio de Projeto da DIO de Vibe Coding utilizando o Lovable e o Copilot Web. A proposta é criar um aplicativo de organização financeira pessoal baseado em interações em linguagem natural.
+
+```markdown
+
+## PRD refinado no Copilot Web
 
 ```markdown
 PRD – App de Organização de Finanças Pessoais
@@ -30,18 +34,21 @@ Entregável da IA
 - Esboço de validação inicial: testes com grupo piloto de usuários iniciantes e diversidade de perfis.
 - Linguagem acessível e tom educativo em português.
 - Garantia de design universal e acessibilidade digital para maximizar a experiência positiva de todos os públicos.
-
 ```
 
-Interações com o lavable:
+---
 
-> Crie um App de finanças pessoais com base no seguinte PRD (Product Requirementes document): (PRD)
+## Interações com o Lovable
+
+> Crie um App de finanças pessoais com base no seguinte PRD (Product Requirements Document): (PRD)  
 > Tentei criar uma meta chamada reserva de emergência, mas ela não apareceu no componente. A impressão que tive foi que apenas o assistente financeiro a reconheceu, poderia verificar? Além disso onde vejo gráficos e extrato?
 
-Resultado Final do Lovable: https://personal-finances-chat.lovable.app/
+**Resultado Final do Lovable:**  
+[https://personal-finances-chat.lovable.app/](https://personal-finances-chat.lovable.app/)
 
 <img width="1366" height="599" alt="image" src="https://github.com/user-attachments/assets/1391d03f-3b5d-493b-863f-c983c0f8c912" />
 
+---
 
 # Cádmão – Finanças de Bolso
 
@@ -73,18 +80,22 @@ Pessoas que desejam organizar suas finanças de forma prática e acessível, esp
 - Linguagem acessível e tom educativo em português.  
 - Garantia de design universal e acessibilidade digital para maximizar a experiência positiva de todos os públicos.
 
+---
 
 ## Reflexão
- 
-### O que funcionou bem? 
 
-O refinamento do PRD previamente feito no copilot ajudou bastante, pois os créditos do lovable acababaram em poucas interações.
+### O que funcionou bem
+- O refinamento do PRD previamente feito no Copilot ajudou bastante, pois os créditos do Lovable acabaram em poucas interações.
 
-### O que não funcionou como o esperado?  
+### O que não funcionou como o esperado
+- Esperava poder interagir mais vezes com o Lovable, mas as interações feitas foram satisfatórias.
 
-Esperava poder interagir mais vezes com o lovable, mais as interações feitas foram satisfatórias.
+### O que aprendeu sobre conversar com IAs
+- Aprendi que é como conversar com uma pessoa: quanto mais detalhes e clareza você dá, melhor é a interação.
+```
 
-### O que aprendeu sobre conversar com IAs?
+---
 
-Aprendi que é como conversar com uma pessoa, quanto mais detalhes e clareza você dá, melhor é a interação.
+Essa versão mantém **todas as premissas originais**, mas organiza melhor os blocos, usa divisões claras e dá ritmo à leitura. Assim seu README fica mais profissional e fácil de acompanhar.  
 
+Quer que eu também prepare uma versão **compacta** (resumo enxuto em Markdown) para você usar como apresentação rápida do projeto, além desse README completo?
